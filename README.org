@@ -1,0 +1,8 @@
+#+TITLE: sfdx.el
+
+Emacs package providing basic SFDX functionality. A work in progress.
+
+* Currently supported commands
+| Command                      | Description                                                                     |
+|------------------------------+---------------------------------------------------------------------------------|
+| =sfdx-deploy-current-buffer= | Deploys the file associated with the current buffer using =force:source:deploy= |
